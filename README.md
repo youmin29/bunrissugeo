@@ -1,12 +1,13 @@
 # 분리쓰거
 - ### Skill
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - ### 프로젝트명
   -  **분리**수**거** + **쓰**레기 = **분리쓰거**
 
-- ### 프로그램 소개
+- ### 프로젝트 소개
   - 올바르게 분리배출하는 방법에 대해 알려준다.
   - 일반 쓰레기와 음식물 쓰레기 구분해준다.
  
